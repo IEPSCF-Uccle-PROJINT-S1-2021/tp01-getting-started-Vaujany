@@ -9,23 +9,19 @@
 
 ## Nom
 
-Skywalker
+Kamdem Domguia
 
 ## Prénom
 
-Luke
+Vaujany
 
 ## Courte présentation
 
 Bonjour,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
+   Je m'appelle Vaujany
+   Je suis étudiant en 3ème année Bachelier en Informatique de Gestion.
+   Je suis un passioné de l'informatique, et j'adore bien coder.
+   En ce qui concerne les languages de programmation, mes preferences vont sur le javascript et java.
 
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
-
-J'ai hâte d'apprendre à programmer en JavaScript.
+   J'ai hâte d'apprendre à programmer en JavaScript et savoir utiliser les modules principales q'offre  Nodejs.
